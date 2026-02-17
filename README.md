@@ -1,18 +1,19 @@
 # Mini To Do List
 
-Projeto desenvolvido como teste técnico.
+Projeto desenvolvido como teste técnico para estágio na empresa MoreResults
 
-## Tecnologias
+## Tecnologias Utilizadas
 - C# / ASP.NET Core Web API
+- HTML5
 - Vue 3 / Nuxt
-- "Swagger"
+- Swagger
 
 ## Funcionalidades
 - Listar tarefas
-- Adicionar tarefa
-- Remover tarefa
+- Adicionar tarefas
+- Remover tarefas
 
-## Como executar
+## Como Executar o Programa
 
 ### Backend
 - Abrir o projeto no Visual Studio
