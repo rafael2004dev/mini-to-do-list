@@ -12,3 +12,9 @@ obj/
 
 # Node (se um dia misturar)
 node_modules/
+
+# Nuxt / Node
+frontend/todo-frontend/node_modules/
+frontend/todo-frontend/.nuxt/
+frontend/todo-frontend/.output/
+frontend/todo-frontend/dist/
