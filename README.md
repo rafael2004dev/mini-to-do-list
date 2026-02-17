@@ -25,4 +25,4 @@ Projeto desenvolvido como teste técnico para estágio na empresa MoreResults
 - npm install
 - npm run dev
 - Pegar o https gerado
-- Colar https no Navegador
+- Colar o https no Navegador
