@@ -24,3 +24,5 @@ Projeto desenvolvido como teste técnico para estágio na empresa MoreResults
 - Abrir a pasta do frontend
 - npm install
 - npm run dev
+- Pegar o https gerado
+- Colar https no Navegador
